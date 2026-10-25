@@ -1,1 +1,87 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/08/06/19/channels-6a74d5e688f69.png" tvg-name="Rede Brasil" group-title="Canais Abertos",Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/10/9/channels-6a28d373bc8b0.png" tvg-name="Rede NGT TV" group-title="Canais Abertos",Rede NGT TV
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/08/06/1/channels-6a74e516c1368.png" tvg-name="Rede QDM" group-title="Canais Abertos",Rede QDM
+https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/08/25/46/channels-6a8e0a668a779.png" tvg-name="Rede TV Paraná" group-title="Canais Abertos",Rede TV Paraná
+https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/08/25/26/channels-6a8e0a674507b.png" tvg-name="Tenda TV" group-title="Canais Abertos",Tenda TV
+https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/10/05/22/channels-6ac3d13d5a41c.png" tvg-name="TV Clube Brasil" group-title="Canais Abertos",TV Clube Brasil
+https://isaocorp.cloudecast.com/recon/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/08/06/19/channels-6a74dc88ce7fc.png" tvg-name="TV Compasso" group-title="Canais Abertos",TV Compasso
+https://cdn.live.br1.jmvstream.com/webtv/wgyzoiun/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/08/06/21/channels-6a74d492394f2.png" tvg-name="TV Florida" group-title="Canais Abertos",TV Florida
+https://live01.innovatv.tv.br/TV_Florida/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/10/37/channels-6a28d67be6b2d.png" tvg-name="TV Folha do Campo" group-title="Canais Abertos",TV Folha do Campo
+https://stmv1.transmissaodigital.com/folha-do-campo/folha-do-campo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/09/29/7/channels-6abbb6b31a007.png" tvg-name="TV Marataízes" group-title="Canais Abertos",TV Marataízes
+https://edge.innova.tv.br/s-mini01/channels/live/tv-marataizes3801rj1pk0-52-59/tv-marataizes-52-59-cbcs.mpd
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/09/22/3/channels-6ab2c1c5df675.png" tvg-name="TV Meio Norte" group-title="Canais Abertos",TV Meio Norte
+https://maystreaming.cloudecast.com/redemeio/index.m3u8
+#EXTINF:-1 tvg-name="TV Pampa" group-title="Canais Abertos",TV Pampa
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/07/14/45/channels-6a55a7e21bc11.png" tvg-name="TV Planalto" group-title="Canais Abertos",TV Planalto
+https://pop.uniquetv.com.br/hls/tvplanaltonorte.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/10/13/channels-6a28df4592b35.png" tvg-name="HALLO! DOC." group-title="Documentarios",HALLO! DOC.
+https://live01.innovatv.tv.br/Hallo_Doc/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/10/17/channels-6a28dcd94a1ca.png" tvg-name="Nsports" group-title="Esportes",Nsports
+https://live01.innovatv.tv.br/Nsports_1080/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/09/36/channels-6a28d2d4c97e9.png" tvg-name="Play TV Horse" group-title="Esportes",Play TV Horse
+https://cdn-5.nxplay.com.br/PLAYHORSE_TV/index.m3u8?token=8SswUs_jKAOwDeZWaPqIKg&expires=1814468979
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/10/40/channels-6a28d57f4e468.png" tvg-name="TV da Pesca" group-title="Esportes",TV da Pesca
+https://isaocorp.cloudecast.com/tvdapesca/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/07/13/30/channels-6a55a5f7579fc.png" tvg-name="AWTV" group-title="Filmes",AWTV
+https://awtv.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/09/37/channels-6a28cacfdcd24.png" tvg-name="HALLO! Classic" group-title="Filmes",HALLO! Classic
+https://live01.innovatv.tv.br/Hallo_Classic/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/09/18/channels-6a28cd2ba70a6.png" tvg-name="HALLO! Movies" group-title="Filmes",HALLO! Movies
+https://live01.innovatv.tv.br/Hallo_Movies/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/10/40/channels-6a28db99d91a6.png" tvg-name="HALLO! Movies 2" group-title="Filmes",HALLO! Movies 2
+https://live01.innovatv.tv.br/Hallo_Movies2/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/08/06/34/channels-6a74d7228d1fe.png" tvg-name="Os Detetives" group-title="Filmes",Os Detetives
+https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/09/11/channels-6a28c40fda318.png" tvg-name="DumDum" group-title="Infantil",DumDum
+https://live01.innovatv.tv.br/DumDum_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/09/15/channels-6a28c715526e3.png" tvg-name="HALLO! Anime" group-title="Infantil",HALLO! Anime
+https://live01.innovatv.tv.br/Hallo_Anime/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/08/06/15/channels-6a74e4432806e.png" tvg-name="Kids Mais" group-title="Infantil",Kids Mais
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/08/06/10/channels-6a74d8a9267bc.png" tvg-name="FM TV" group-title="Musica",FM TV
+https://video08.logicahost.com.br/fmtvbr/fmtvbr/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/09/8/channels-6a28ce35c5eda.png" tvg-name="HALLO! Music" group-title="Musica",HALLO! Music
+https://live01.innovatv.tv.br/Hallo_Music/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/09/15/channels-6a28c1e199e92.png" tvg-name="BM&C News" group-title="Noticias",BM&C News
+https://live01.innovatv.tv.br/Bmc_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/07/13/28/channels-6a55a60a0c0d2.png" tvg-name="Canal UOL" group-title="Noticias",Canal UOL
+https://live01.innovatv.tv.br/Uol_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/09/39/channels-6a28d11c408de.png" tvg-name="Oeste TV" group-title="Noticias",Oeste TV
+https://live01.innovatv.tv.br/OesteTV_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/10/23/channels-6a28d4c7ba0da.png" tvg-name="Republic" group-title="Noticias",Republic
+https://flu.playgo.tv.br/republic/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/07/14/27/channels-6a55a784d8abe.png" tvg-name="Times Brasil CNBC" group-title="Noticias",Times Brasil CNBC
+https://live01.innovatv.tv.br/Cnbc_720/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/10/21/channels-6a28de878c085.png" tvg-name="TV Judaica" group-title="Religioso",TV Judaica
+https://streaming.tvjudaica.com/main.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/09/8/channels-6a28cf291186c.png" tvg-name="HALLO! Series" group-title="Series",HALLO! Series
+https://live01.innovatv.tv.br/Hallo_Series/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/07/14/1/channels-6a55a70d5dd8d.png" tvg-name="Séries Classic" group-title="Series",Séries Classic
+https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/08/06/43/channels-6a74e6733a552.png" tvg-name="Assim é Portugal" group-title="Variedades",Assim é Portugal
+https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/10/45/channels-6a28e237f2d02.png" tvg-name="Blits TV" group-title="Variedades",Blits TV
+https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/09/3/channels-6a28c90f895d9.png" tvg-name="HALLO! Brasil" group-title="Variedades",HALLO! Brasil
+https://live01.innovatv.tv.br/Hallo_Brasil/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/07/14/28/channels-6a55a669ee744.png" tvg-name="Masper TV" group-title="Variedades",Masper TV
+https://tv02.zas.media:1936/masper/masper/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/08/06/41/channels-6a74eafbb49e3.png" tvg-name="Pet Lovers TV" group-title="Variedades",Pet Lovers TV
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/10/42/channels-6a28d7f7bbfa8.png" tvg-name="TV Sonata" group-title="Variedades",TV Sonata
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/10/21/27/channels-6ad906648ac01.png" tvg-name="U Channel" group-title="Variedades",U Channel
+https://flu.playgo.tv.br/uchannel/index.m3u8
+#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/07/14/24/channels-6a55aad890941.png" tvg-name="Unique TV" group-title="Variedades",Unique TV
+https://pop.uniquetv.com.br/hls/uniquetv.m3u8
