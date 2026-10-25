@@ -1,0 +1,429 @@
+[
+  {
+    "channels_id": 54,
+    "name": "U Channel",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/10/21/27/channels-6ad906648ac01.png",
+    "categories": [
+      2,
+      7,
+      8
+    ],
+    "stream": "https://flu.playgo.tv.br/uchannel/index.m3u8"
+  },
+  {
+    "channels_id": 23,
+    "name": "Republic",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/23/channels-6a28d4c7ba0da.png",
+    "categories": [
+      6,
+      7,
+      8
+    ],
+    "stream": "https://flu.playgo.tv.br/republic/index.m3u8"
+  },
+  {
+    "channels_id": 25,
+    "name": "Times Brasil CNBC",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/07/14/27/channels-6a55a784d8abe.png",
+    "categories": [
+      8,
+      24
+    ],
+    "stream": "https://live01.innovatv.tv.br/Cnbc_720/index.m3u8"
+  },
+  {
+    "channels_id": 26,
+    "name": "Canal UOL",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/07/13/28/channels-6a55a60a0c0d2.png",
+    "categories": [
+      7
+    ],
+    "stream": "https://live01.innovatv.tv.br/Uol_720/index.m3u8"
+  },
+  {
+    "channels_id": 2,
+    "name": "Nsports",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/17/channels-6a28dcd94a1ca.png",
+    "categories": [
+      1
+    ],
+    "stream": "https://live01.innovatv.tv.br/Nsports_1080/index.m3u8"
+  },
+  {
+    "channels_id": 15,
+    "name": "BM&C News",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/15/channels-6a28c1e199e92.png",
+    "categories": [
+      8,
+      20
+    ],
+    "stream": "https://live01.innovatv.tv.br/Bmc_720/index.m3u8"
+  },
+  {
+    "channels_id": 21,
+    "name": "Oeste TV",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/39/channels-6a28d11c408de.png",
+    "categories": [
+      8
+    ],
+    "stream": "https://live01.innovatv.tv.br/OesteTV_720/index.m3u8"
+  },
+  {
+    "channels_id": 42,
+    "name": "TV Pampa",
+    "logo": "",
+    "categories": [
+      2,
+      7,
+      8
+    ],
+    "stream": "https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8"
+  },
+  {
+    "channels_id": 22,
+    "name": "DumDum",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/11/channels-6a28c40fda318.png",
+    "categories": [
+      5
+    ],
+    "stream": "https://live01.innovatv.tv.br/DumDum_720/index.m3u8"
+  },
+  {
+    "channels_id": 40,
+    "name": "Rede Brasil",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/19/channels-6a74d5e688f69.png",
+    "categories": [
+      4,
+      22,
+      23
+    ],
+    "stream": "https://redebrasil.nuvemplay.live/hls/stream.m3u8"
+  },
+  {
+    "channels_id": 4,
+    "name": "HALLO! Movies",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/18/channels-6a28cd2ba70a6.png",
+    "categories": [
+      2
+    ],
+    "stream": "https://live01.innovatv.tv.br/Hallo_Movies/index.m3u8"
+  },
+  {
+    "channels_id": 12,
+    "name": "Rede NGT TV",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/9/channels-6a28d373bc8b0.png",
+    "categories": [
+      2,
+      4,
+      7
+    ],
+    "stream": "https://isaocorp.cloudecast.com/ngt/index.m3u8"
+  },
+  {
+    "channels_id": 30,
+    "name": "Séries Classic",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/07/14/1/channels-6a55a70d5dd8d.png",
+    "categories": [
+      2,
+      4
+    ],
+    "stream": "https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8"
+  },
+  {
+    "channels_id": 8,
+    "name": "HALLO! Series",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/8/channels-6a28cf291186c.png",
+    "categories": [
+      4
+    ],
+    "stream": "https://live01.innovatv.tv.br/Hallo_Series/index.m3u8"
+  },
+  {
+    "channels_id": 16,
+    "name": "TV da Pesca",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/40/channels-6a28d57f4e468.png",
+    "categories": [
+      1
+    ],
+    "stream": "https://isaocorp.cloudecast.com/tvdapesca/index.m3u8"
+  },
+  {
+    "channels_id": 20,
+    "name": "Pet Lovers TV",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/41/channels-6a74eafbb49e3.png",
+    "categories": [
+      22
+    ],
+    "stream": "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8"
+  },
+  {
+    "channels_id": 29,
+    "name": "Kids Mais",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/15/channels-6a74e4432806e.png",
+    "categories": [
+      5
+    ],
+    "stream": "https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8"
+  },
+  {
+    "channels_id": 9,
+    "name": "HALLO! Anime",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/15/channels-6a28c715526e3.png",
+    "categories": [
+      5
+    ],
+    "stream": "https://live01.innovatv.tv.br/Hallo_Anime/index.m3u8"
+  },
+  {
+    "channels_id": 43,
+    "name": "Rede TV Paraná",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/08/25/46/channels-6a8e0a668a779.png",
+    "categories": [
+      7
+    ],
+    "stream": "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8"
+  },
+  {
+    "channels_id": 10,
+    "name": "HALLO! Classic",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/37/channels-6a28cacfdcd24.png",
+    "categories": [
+      4
+    ],
+    "stream": "https://live01.innovatv.tv.br/Hallo_Classic/index.m3u8"
+  },
+  {
+    "channels_id": 14,
+    "name": "Play TV Horse",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/36/channels-6a28d2d4c97e9.png",
+    "categories": [
+      1
+    ],
+    "stream": "https://cdn-5.nxplay.com.br/PLAYHORSE_TV/index.m3u8?token=8SswUs_jKAOwDeZWaPqIKg&expires=1814468979"
+  },
+  {
+    "channels_id": 13,
+    "name": "TV Folha do Campo",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/37/channels-6a28d67be6b2d.png",
+    "categories": [
+      15
+    ],
+    "stream": "https://stmv1.transmissaodigital.com/folha-do-campo/folha-do-campo/playlist.m3u8"
+  },
+  {
+    "channels_id": 3,
+    "name": "HALLO! Movies 2",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/40/channels-6a28db99d91a6.png",
+    "categories": [
+      2
+    ],
+    "stream": "https://live01.innovatv.tv.br/Hallo_Movies2/index.m3u8"
+  },
+  {
+    "channels_id": 19,
+    "name": "Blits TV",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/45/channels-6a28e237f2d02.png",
+    "categories": [
+      19
+    ],
+    "stream": "https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8"
+  },
+  {
+    "channels_id": 41,
+    "name": "Assim é Portugal",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/43/channels-6a74e6733a552.png",
+    "categories": [
+      9,
+      16,
+      17
+    ],
+    "stream": "https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8"
+  },
+  {
+    "channels_id": 7,
+    "name": "HALLO! Brasil",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/3/channels-6a28c90f895d9.png",
+    "categories": [
+      2
+    ],
+    "stream": "https://live01.innovatv.tv.br/Hallo_Brasil/index.m3u8"
+  },
+  {
+    "channels_id": 17,
+    "name": "TV Judaica",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/21/channels-6a28de878c085.png",
+    "categories": [
+      7,
+      9,
+      23
+    ],
+    "stream": "https://streaming.tvjudaica.com/main.m3u8"
+  },
+  {
+    "channels_id": 27,
+    "name": "AWTV",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/07/13/30/channels-6a55a5f7579fc.png",
+    "categories": [
+      2,
+      4,
+      18
+    ],
+    "stream": "https://awtv.nuvemplay.live/hls/stream.m3u8"
+  },
+  {
+    "channels_id": 5,
+    "name": "HALLO! DOC.",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/13/channels-6a28df4592b35.png",
+    "categories": [
+      6
+    ],
+    "stream": "https://live01.innovatv.tv.br/Hallo_Doc/index.m3u8"
+  },
+  {
+    "channels_id": 28,
+    "name": "Unique TV",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/07/14/24/channels-6a55aad890941.png",
+    "categories": [
+      1,
+      7,
+      22
+    ],
+    "stream": "https://pop.uniquetv.com.br/hls/uniquetv.m3u8"
+  },
+  {
+    "channels_id": 18,
+    "name": "Rede QDM",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/1/channels-6a74e516c1368.png",
+    "categories": [
+      7
+    ],
+    "stream": "https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8"
+  },
+  {
+    "channels_id": 6,
+    "name": "HALLO! Music",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/8/channels-6a28ce35c5eda.png",
+    "categories": [
+      9
+    ],
+    "stream": "https://live01.innovatv.tv.br/Hallo_Music/index.m3u8"
+  },
+  {
+    "channels_id": 38,
+    "name": "FM TV",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/10/channels-6a74d8a9267bc.png",
+    "categories": [
+      7,
+      9,
+      21
+    ],
+    "stream": "https://video08.logicahost.com.br/fmtvbr/fmtvbr/playlist.m3u8"
+  },
+  {
+    "channels_id": 11,
+    "name": "TV Sonata",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/42/channels-6a28d7f7bbfa8.png",
+    "categories": [
+      2,
+      4,
+      9
+    ],
+    "stream": "https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8"
+  },
+  {
+    "channels_id": 32,
+    "name": "TV Planalto",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/07/14/45/channels-6a55a7e21bc11.png",
+    "categories": [
+      1,
+      7,
+      22
+    ],
+    "stream": "https://pop.uniquetv.com.br/hls/tvplanaltonorte.m3u8"
+  },
+  {
+    "channels_id": 31,
+    "name": "Masper TV",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/07/14/28/channels-6a55a669ee744.png",
+    "categories": [
+      6,
+      9,
+      22
+    ],
+    "stream": "https://tv02.zas.media:1936/masper/masper/playlist.m3u8"
+  },
+  {
+    "channels_id": 44,
+    "name": "Tenda TV",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/08/25/26/channels-6a8e0a674507b.png",
+    "categories": [
+      7
+    ],
+    "stream": "https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8"
+  },
+  {
+    "channels_id": 37,
+    "name": "Os Detetives",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/34/channels-6a74d7228d1fe.png",
+    "categories": [
+      2,
+      4
+    ],
+    "stream": "https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8"
+  },
+  {
+    "channels_id": 39,
+    "name": "TV Compasso",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/19/channels-6a74dc88ce7fc.png",
+    "categories": [
+      7,
+      22,
+      25
+    ],
+    "stream": "https://cdn.live.br1.jmvstream.com/webtv/wgyzoiun/playlist/playlist.m3u8"
+  },
+  {
+    "channels_id": 36,
+    "name": "TV Florida",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/21/channels-6a74d492394f2.png",
+    "categories": [
+      8,
+      23,
+      26
+    ],
+    "stream": "https://live01.innovatv.tv.br/TV_Florida/index.m3u8"
+  },
+  {
+    "channels_id": 51,
+    "name": "TV Meio Norte",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/09/22/3/channels-6ab2c1c5df675.png",
+    "categories": [
+      2,
+      7,
+      8
+    ],
+    "stream": "https://maystreaming.cloudecast.com/redemeio/index.m3u8"
+  },
+  {
+    "channels_id": 52,
+    "name": "TV Marataízes",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/09/29/7/channels-6abbb6b31a007.png",
+    "categories": [
+      6,
+      8,
+      17
+    ],
+    "stream": "https://edge.innova.tv.br/s-mini01/channels/live/tv-marataizes3801rj1pk0-52-59/tv-marataizes-52-59-cbcs.mpd"
+  },
+  {
+    "channels_id": 53,
+    "name": "TV Clube Brasil",
+    "logo": "https://mw.innova.tv.br/assets/channels/2026/10/05/22/channels-6ac3d13d5a41c.png",
+    "categories": [
+      2,
+      4,
+      7
+    ],
+    "stream": "https://isaocorp.cloudecast.com/recon/index.m3u8"
+  }
+]
