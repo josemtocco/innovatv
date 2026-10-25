@@ -1,1 +1,52 @@
+name: Atualizar lista Innova (6 em 6 horas)
 
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # a cada 6 horas
+  workflow_dispatch:        # permite rodar manualmente pelo botao "Run workflow"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-innova
+  cancel-in-progress: false
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Gerar lista M3U
+        env:
+          INNOVA_DEVICE_ID: ${{ secrets.INNOVA_DEVICE_ID }}
+          INNOVA_LOGIN: ${{ secrets.INNOVA_LOGIN }}
+          INNOVA_SENHA: ${{ secrets.INNOVA_SENHA }}
+        run: python gerar_innova.py
+
+      - name: Commit e push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add playlists/innova.m3u estado_canais.json
+          if git diff --cached --quiet; then
+            echo "Sem mudancas."
+            exit 0
+          fi
+          git commit -m "Atualiza lista Innova [skip ci]"
+          # reconcilia com o remoto antes do push (evita '! [rejected] fetch first')
+          for i in 1 2 3 4 5; do
+            git pull --rebase --autostash origin ${GITHUB_REF_NAME} && break
+            echo "pull/rebase tentativa $i falhou, repetindo..."
+            sleep 3
+          done
+          git push origin HEAD:${GITHUB_REF_NAME}
