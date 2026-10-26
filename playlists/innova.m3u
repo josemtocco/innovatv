@@ -17,8 +17,6 @@ https://cdn.live.br1.jmvstream.com/webtv/wgyzoiun/playlist/playlist.m3u8
 https://live01.innovatv.tv.br/TV_Florida/index.m3u8
 #EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/10/37/channels-6a28d67be6b2d.png" tvg-name="TV Folha do Campo" group-title="Canais Abertos",TV Folha do Campo
 https://stmv1.transmissaodigital.com/folha-do-campo/folha-do-campo/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/09/29/7/channels-6abbb6b31a007.png" tvg-name="TV Marataízes" group-title="Canais Abertos",TV Marataízes
-https://edge.innova.tv.br/s-mini01/channels/live/tv-marataizes3801rj1pk0-52-59/tv-marataizes-52-59-cbcs.mpd
 #EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/09/22/3/channels-6ab2c1c5df675.png" tvg-name="TV Meio Norte" group-title="Canais Abertos",TV Meio Norte
 https://maystreaming.cloudecast.com/redemeio/index.m3u8
 #EXTINF:-1 tvg-name="TV Pampa" group-title="Canais Abertos",TV Pampa
@@ -71,8 +69,6 @@ https://live01.innovatv.tv.br/Hallo_Series/index.m3u8
 https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/08/06/43/channels-6a74e6733a552.png" tvg-name="Assim é Portugal" group-title="Variedades",Assim é Portugal
 https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/10/45/channels-6a28e237f2d02.png" tvg-name="Blits TV" group-title="Variedades",Blits TV
-https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/06/09/3/channels-6a28c90f895d9.png" tvg-name="HALLO! Brasil" group-title="Variedades",HALLO! Brasil
 https://live01.innovatv.tv.br/Hallo_Brasil/index.m3u8
 #EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/07/14/28/channels-6a55a669ee744.png" tvg-name="Masper TV" group-title="Variedades",Masper TV
