@@ -4,300 +4,300 @@
     "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/19/channels-6a74d5e688f69.png",
     "category": "Canais Abertos",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://isaocorp.cloudecast.com/ngt/index.m3u8": {
     "name": "Rede NGT TV",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/9/channels-6a28d373bc8b0.png",
     "category": "Canais Abertos",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8": {
     "name": "Rede QDM",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/1/channels-6a74e516c1368.png",
     "category": "Canais Abertos",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8": {
     "name": "Rede TV Paraná",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/08/25/46/channels-6a8e0a668a779.png",
     "category": "Canais Abertos",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://isaocorp.cloudecast.com/recon/index.m3u8": {
     "name": "TV Clube Brasil",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/10/05/22/channels-6ac3d13d5a41c.png",
     "category": "Canais Abertos",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://cdn.live.br1.jmvstream.com/webtv/wgyzoiun/playlist/playlist.m3u8": {
     "name": "TV Compasso",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/19/channels-6a74dc88ce7fc.png",
     "category": "Canais Abertos",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://live01.innovatv.tv.br/TV_Florida/index.m3u8": {
     "name": "TV Florida",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/21/channels-6a74d492394f2.png",
     "category": "Canais Abertos",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://stmv1.transmissaodigital.com/folha-do-campo/folha-do-campo/playlist.m3u8": {
     "name": "TV Folha do Campo",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/37/channels-6a28d67be6b2d.png",
     "category": "Canais Abertos",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://edge.innova.tv.br/s-mini01/channels/live/tv-marataizes3801rj1pk0-52-59/tv-marataizes-52-59-cbcs.mpd": {
     "name": "TV Marataízes",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/09/29/7/channels-6abbb6b31a007.png",
     "category": "Canais Abertos",
-    "falhas": 18,
-    "visto_em": 1793420425
+    "falhas": 19,
+    "visto_em": 1793447131
   },
   "https://maystreaming.cloudecast.com/redemeio/index.m3u8": {
     "name": "TV Meio Norte",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/09/22/3/channels-6ab2c1c5df675.png",
     "category": "Canais Abertos",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8": {
     "name": "TV Pampa",
     "logo": "",
     "category": "Canais Abertos",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://pop.uniquetv.com.br/hls/tvplanaltonorte.m3u8": {
     "name": "TV Planalto",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/07/14/45/channels-6a55a7e21bc11.png",
     "category": "Canais Abertos",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8": {
     "name": "Tenda TV",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/08/25/26/channels-6a8e0a674507b.png",
     "category": "Canais Abertos",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://live01.innovatv.tv.br/Hallo_Doc/index.m3u8": {
     "name": "HALLO! DOC.",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/13/channels-6a28df4592b35.png",
     "category": "Documentarios",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://live01.innovatv.tv.br/Nsports_1080/index.m3u8": {
     "name": "Nsports",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/17/channels-6a28dcd94a1ca.png",
     "category": "Esportes",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://cdn-5.nxplay.com.br/PLAYHORSE_TV/index.m3u8?token=8SswUs_jKAOwDeZWaPqIKg&expires=1814468979": {
     "name": "Play TV Horse",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/36/channels-6a28d2d4c97e9.png",
     "category": "Esportes",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://isaocorp.cloudecast.com/tvdapesca/index.m3u8": {
     "name": "TV da Pesca",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/40/channels-6a28d57f4e468.png",
     "category": "Esportes",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://awtv.nuvemplay.live/hls/stream.m3u8": {
     "name": "AWTV",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/07/13/30/channels-6a55a5f7579fc.png",
     "category": "Filmes",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://live01.innovatv.tv.br/Hallo_Classic/index.m3u8": {
     "name": "HALLO! Classic",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/37/channels-6a28cacfdcd24.png",
     "category": "Filmes",
-    "falhas": 1,
-    "visto_em": 1793420425
+    "falhas": 0,
+    "visto_em": 1793447131
   },
   "https://live01.innovatv.tv.br/Hallo_Movies/index.m3u8": {
     "name": "HALLO! Movies",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/18/channels-6a28cd2ba70a6.png",
     "category": "Filmes",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://live01.innovatv.tv.br/Hallo_Movies2/index.m3u8": {
     "name": "HALLO! Movies 2",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/40/channels-6a28db99d91a6.png",
     "category": "Filmes",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://video11.logicahost.com.br/detetives/detetives/playlist.m3u8": {
     "name": "Os Detetives",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/34/channels-6a74d7228d1fe.png",
     "category": "Filmes",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://live01.innovatv.tv.br/DumDum_720/index.m3u8": {
     "name": "DumDum",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/11/channels-6a28c40fda318.png",
     "category": "Infantil",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://live01.innovatv.tv.br/Hallo_Anime/index.m3u8": {
     "name": "HALLO! Anime",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/15/channels-6a28c715526e3.png",
     "category": "Infantil",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8": {
     "name": "Kids Mais",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/15/channels-6a74e4432806e.png",
     "category": "Infantil",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://video08.logicahost.com.br/fmtvbr/fmtvbr/playlist.m3u8": {
     "name": "FM TV",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/10/channels-6a74d8a9267bc.png",
     "category": "Musica",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://live01.innovatv.tv.br/Hallo_Music/index.m3u8": {
     "name": "HALLO! Music",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/8/channels-6a28ce35c5eda.png",
     "category": "Musica",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://live01.innovatv.tv.br/Bmc_720/index.m3u8": {
     "name": "BM&C News",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/15/channels-6a28c1e199e92.png",
     "category": "Noticias",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://live01.innovatv.tv.br/Uol_720/index.m3u8": {
     "name": "Canal UOL",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/07/13/28/channels-6a55a60a0c0d2.png",
     "category": "Noticias",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://live01.innovatv.tv.br/OesteTV_720/index.m3u8": {
     "name": "Oeste TV",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/39/channels-6a28d11c408de.png",
     "category": "Noticias",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://flu.playgo.tv.br/republic/index.m3u8": {
     "name": "Republic",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/23/channels-6a28d4c7ba0da.png",
     "category": "Noticias",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://live01.innovatv.tv.br/Cnbc_720/index.m3u8": {
     "name": "Times Brasil CNBC",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/07/14/27/channels-6a55a784d8abe.png",
     "category": "Noticias",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://streaming.tvjudaica.com/main.m3u8": {
     "name": "TV Judaica",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/21/channels-6a28de878c085.png",
     "category": "Religioso",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://live01.innovatv.tv.br/Hallo_Series/index.m3u8": {
     "name": "HALLO! Series",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/8/channels-6a28cf291186c.png",
     "category": "Series",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://video10.logicahost.com.br/serieclassic/serieclassic/playlist.m3u8": {
     "name": "Séries Classic",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/07/14/1/channels-6a55a70d5dd8d.png",
     "category": "Series",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8": {
     "name": "Assim é Portugal",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/43/channels-6a74e6733a552.png",
     "category": "Variedades",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8": {
     "name": "Blits TV",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/45/channels-6a28e237f2d02.png",
     "category": "Variedades",
-    "falhas": 18,
-    "visto_em": 1793420425
+    "falhas": 19,
+    "visto_em": 1793447131
   },
   "https://live01.innovatv.tv.br/Hallo_Brasil/index.m3u8": {
     "name": "HALLO! Brasil",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/09/3/channels-6a28c90f895d9.png",
     "category": "Variedades",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://tv02.zas.media:1936/masper/masper/playlist.m3u8": {
     "name": "Masper TV",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/07/14/28/channels-6a55a669ee744.png",
     "category": "Variedades",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8": {
     "name": "Pet Lovers TV",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/08/06/41/channels-6a74eafbb49e3.png",
     "category": "Variedades",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8": {
     "name": "TV Sonata",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/06/10/42/channels-6a28d7f7bbfa8.png",
     "category": "Variedades",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://flu.playgo.tv.br/uchannel/index.m3u8": {
     "name": "U Channel",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/10/21/27/channels-6ad906648ac01.png",
     "category": "Variedades",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   },
   "https://pop.uniquetv.com.br/hls/uniquetv.m3u8": {
     "name": "Unique TV",
     "logo": "https://mw.innova.tv.br/assets/channels/2026/07/14/24/channels-6a55aad890941.png",
     "category": "Variedades",
     "falhas": 0,
-    "visto_em": 1793420425
+    "visto_em": 1793447131
   }
 }
