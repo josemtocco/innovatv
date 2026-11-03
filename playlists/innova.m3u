@@ -5,10 +5,6 @@ https://redebrasil.nuvemplay.live/hls/stream.m3u8
 https://isaocorp.cloudecast.com/ngt/index.m3u8
 #EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/08/06/1/channels-6a74e516c1368.png" tvg-name="Rede QDM" group-title="Canais Abertos",Rede QDM
 https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/08/25/46/channels-6a8e0a668a779.png" tvg-name="Rede TV Paraná" group-title="Canais Abertos",Rede TV Paraná
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/08/25/26/channels-6a8e0a674507b.png" tvg-name="Tenda TV" group-title="Canais Abertos",Tenda TV
-https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/10/05/22/channels-6ac3d13d5a41c.png" tvg-name="TV Clube Brasil" group-title="Canais Abertos",TV Clube Brasil
 https://isaocorp.cloudecast.com/recon/index.m3u8
 #EXTINF:-1 tvg-logo="https://mw.innova.tv.br/assets/channels/2026/08/06/19/channels-6a74dc88ce7fc.png" tvg-name="TV Compasso" group-title="Canais Abertos",TV Compasso
